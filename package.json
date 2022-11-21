@@ -1,0 +1,12 @@
+{
+  "name": "webvcard",
+  "version": "1.0.0",
+  "description": "v card website version",
+  
+  "repository": "https://github.com/shaomollo/vcard-personal-portfolio",
+  "author": "Shalom Omollo <shalom.omollo@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
+
+
